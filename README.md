@@ -46,4 +46,4 @@ plt[`:legend][];
 plt[`:show][];
 ```
 
-![img]('/examples/volcurve.png')
+![img](/examples/volcurve.png)
